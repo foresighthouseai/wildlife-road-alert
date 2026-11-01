@@ -1,0 +1,439 @@
+{
+  "cameras": [
+    {
+      "id": "CAM-01",
+      "road": "PTH 1",
+      "km": 39.6,
+      "x": 18.0,
+      "y": 69.0,
+      "lat": 49.8555,
+      "lon": -97.339,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-02",
+      "road": "PTH 1",
+      "km": 70.4,
+      "x": 32.0,
+      "y": 69.0,
+      "lat": 49.8555,
+      "lon": -97.136,
+      "state": "clear",
+      "source": "camera",
+      "clip": "traffic_no_animal_01"
+    },
+    {
+      "id": "CAM-03",
+      "road": "PTH 1",
+      "km": 127.6,
+      "x": 58.0,
+      "y": 69.0,
+      "lat": 49.8555,
+      "lon": -96.759,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-04",
+      "road": "PTH 1",
+      "km": 167.2,
+      "x": 76.0,
+      "y": 69.0,
+      "lat": 49.8555,
+      "lon": -96.498,
+      "state": "nearby",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-05",
+      "road": "PTH 1",
+      "km": 202.4,
+      "x": 92.0,
+      "y": 69.0,
+      "lat": 49.8555,
+      "lon": -96.266,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-06",
+      "road": "PTH 12",
+      "km": 33.0,
+      "x": 55.0,
+      "y": 82.0,
+      "lat": 49.979,
+      "lon": -96.8025,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-07",
+      "road": "PTH 12",
+      "km": 18.0,
+      "x": 66.0,
+      "y": 66.0,
+      "lat": 49.827,
+      "lon": -96.643,
+      "state": "clear",
+      "source": "camera",
+      "clip": "dashcam_deer_crossing_night_01"
+    },
+    {
+      "id": "CAM-08",
+      "road": "PTH 12",
+      "km": 42.6,
+      "x": 71.0,
+      "y": 83.0,
+      "lat": 49.9885,
+      "lon": -96.5705,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-09",
+      "road": "PTH 12",
+      "km": 43.8,
+      "x": 73.0,
+      "y": 55.0,
+      "lat": 49.7225,
+      "lon": -96.5415,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-10",
+      "road": "PTH 44",
+      "km": 48.0,
+      "x": 60.0,
+      "y": 58.0,
+      "lat": 49.751,
+      "lon": -96.73,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-11",
+      "road": "PTH 44",
+      "km": 59.2,
+      "x": 74.0,
+      "y": 52.0,
+      "lat": 49.694,
+      "lon": -96.527,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-12",
+      "road": "PTH 44",
+      "km": 68.8,
+      "x": 86.0,
+      "y": 47.0,
+      "lat": 49.6465,
+      "lon": -96.353,
+      "state": "nearby",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-13",
+      "road": "PTH 52",
+      "km": 31.0,
+      "x": 62.0,
+      "y": 90.0,
+      "lat": 50.055,
+      "lon": -96.701,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-14",
+      "road": "PTH 52",
+      "km": 37.0,
+      "x": 74.0,
+      "y": 89.0,
+      "lat": 50.0455,
+      "lon": -96.527,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-15",
+      "road": "PTH 59",
+      "km": 51.3,
+      "x": 57.0,
+      "y": 40.0,
+      "lat": 49.58,
+      "lon": -96.7735,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-16",
+      "road": "PTH 59",
+      "km": 52.2,
+      "x": 58.0,
+      "y": 55.0,
+      "lat": 49.7225,
+      "lon": -96.759,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-17",
+      "road": "PTH 59",
+      "km": 53.1,
+      "x": 59.0,
+      "y": 78.0,
+      "lat": 49.941,
+      "lon": -96.7445,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-18",
+      "road": "PTH 1",
+      "km": 103.4,
+      "x": 47.0,
+      "y": 69.0,
+      "lat": 49.8555,
+      "lon": -96.9185,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-19",
+      "road": "PTH 12",
+      "km": 30.0,
+      "x": 50.0,
+      "y": 88.0,
+      "lat": 50.036,
+      "lon": -96.875,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-20",
+      "road": "PTH 44",
+      "km": 40.0,
+      "x": 50.0,
+      "y": 62.0,
+      "lat": 49.789,
+      "lon": -96.875,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-21",
+      "road": "PTH 52",
+      "km": 27.5,
+      "x": 55.0,
+      "y": 91.0,
+      "lat": 50.0645,
+      "lon": -96.8025,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-22",
+      "road": "PTH 59",
+      "km": 50.4,
+      "x": 56.0,
+      "y": 30.0,
+      "lat": 49.485,
+      "lon": -96.788,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-23",
+      "road": "PTH 1",
+      "km": 184.8,
+      "x": 84.0,
+      "y": 69.0,
+      "lat": 49.8555,
+      "lon": -96.382,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-24",
+      "road": "PTH 12",
+      "km": 40.8,
+      "x": 68.0,
+      "y": 74.0,
+      "lat": 49.903,
+      "lon": -96.614,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-25",
+      "road": "PTH 44",
+      "km": 64.0,
+      "x": 80.0,
+      "y": 49.0,
+      "lat": 49.6655,
+      "lon": -96.44,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "CAM-26",
+      "road": "PTH 52",
+      "km": 34.0,
+      "x": 68.0,
+      "y": 90.0,
+      "lat": 50.055,
+      "lon": -96.614,
+      "state": "clear",
+      "source": "camera"
+    },
+    {
+      "id": "RS-01",
+      "road": "PTH 1",
+      "km": 112.0,
+      "x": 70.0,
+      "y": 66.0,
+      "lat": 49.83,
+      "lon": -96.58,
+      "state": "clear",
+      "source": "roadside_camera",
+      "sample": true,
+      "sample_sightings": [
+        {
+          "id": "RS-01-S1",
+          "time": 0,
+          "species": "deer",
+          "group_count": 2,
+          "severity": 1,
+          "assurance": "Medium",
+          "side": "right",
+          "confidence": "0.88"
+        }
+      ]
+    },
+    {
+      "id": "RS-02",
+      "road": "PTH 12",
+      "km": 34.0,
+      "x": 64.0,
+      "y": 72.0,
+      "lat": 49.88,
+      "lon": -96.67,
+      "state": "clear",
+      "source": "roadside_camera",
+      "sample": true,
+      "sample_sightings": [
+        {
+          "id": "RS-02-S1",
+          "time": 0,
+          "species": "moose",
+          "group_count": 1,
+          "severity": 3,
+          "assurance": "High",
+          "side": "left",
+          "confidence": "0.93"
+        }
+      ]
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "Truck 01",
+      "road": "PTH 1",
+      "km": 5.0,
+      "direction": "east",
+      "speed_kmh": 80
+    },
+    {
+      "id": "Van 02",
+      "road": "PTH 12",
+      "km": 12.0,
+      "direction": "west",
+      "speed_kmh": 90
+    },
+    {
+      "id": "Truck 03",
+      "road": "PTH 44",
+      "km": 19.0,
+      "direction": "east",
+      "speed_kmh": 100
+    },
+    {
+      "id": "Van 04",
+      "road": "PTH 59",
+      "km": 26.0,
+      "direction": "west",
+      "speed_kmh": 80
+    },
+    {
+      "id": "Truck 05",
+      "road": "PTH 52",
+      "km": 33.0,
+      "direction": "east",
+      "speed_kmh": 90
+    },
+    {
+      "id": "Van 06",
+      "road": "PTH 1",
+      "km": 40.0,
+      "direction": "west",
+      "speed_kmh": 100
+    },
+    {
+      "id": "Truck 07",
+      "road": "PTH 12",
+      "km": 47.0,
+      "direction": "east",
+      "speed_kmh": 80
+    },
+    {
+      "id": "Van 08",
+      "road": "PTH 44",
+      "km": 54.0,
+      "direction": "west",
+      "speed_kmh": 90
+    },
+    {
+      "id": "Truck 09",
+      "road": "PTH 59",
+      "km": 61.0,
+      "direction": "east",
+      "speed_kmh": 100
+    },
+    {
+      "id": "Truck 12",
+      "road": "PTH 12",
+      "km": 13.9,
+      "direction": "east",
+      "speed_kmh": 95
+    }
+  ],
+  "hotspots": [
+    {
+      "segment": "PTH 12 near Steinbach",
+      "count": 14
+    },
+    {
+      "segment": "PTH 44 near Beausejour",
+      "count": 9
+    },
+    {
+      "segment": "PTH 59 near Birds Hill",
+      "count": 7
+    },
+    {
+      "segment": "PTH 1 near Oakbank",
+      "count": 5
+    },
+    {
+      "segment": "PTH 52 near Mitchell",
+      "count": 3
+    }
+  ],
+  "network_today": {
+    "cameras_online": 26,
+    "alerts_raised": 6,
+    "false_alarms_marked": 1
+  }
+}

@@ -1,0 +1,29 @@
+# Generated outputs
+output/
+previews/
+
+# Video and audio we are not free to share (keep test_videos/CLIP_LIST.md)
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.m4a
+
+# Downloaded datasets and sample media (sources stay in the repo)
+Deers on roads.v4i.coco/
+thermal_samples/*.jpg
+thermal_samples/*.jpeg
+thermal_samples/*.png
+
+# Secrets and local environment
+.env
+.env.*
+
+# Python caches and virtual environments
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+
+# OS noise
+.DS_Store

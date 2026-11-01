@@ -1,0 +1,54 @@
+{
+  "images": 282,
+  "human_boxes": 508,
+  "found": 487,
+  "sam_model": "cached",
+  "min_score": 0.45,
+  "sam_calls": 0,
+  "estimated_cost_usd": 0.705,
+  "precision": {
+    "matched_sam_boxes": 487,
+    "sam_boxes": 546,
+    "precision": 0.8919
+  },
+  "false_detections": 59,
+  "false_per_image": 0.2092,
+  "by_tag": {
+    "day": {
+      "found": 466,
+      "total": 486,
+      "rate": 0.9588
+    },
+    "night": {
+      "found": 21,
+      "total": 22,
+      "rate": 0.9545
+    },
+    "small": {
+      "found": 31,
+      "total": 32,
+      "rate": 0.9688
+    },
+    "medium": {
+      "found": 210,
+      "total": 222,
+      "rate": 0.9459
+    },
+    "large": {
+      "found": 246,
+      "total": 254,
+      "rate": 0.9685
+    },
+    "single": {
+      "found": 163,
+      "total": 165,
+      "rate": 0.9879
+    },
+    "group": {
+      "found": 324,
+      "total": 343,
+      "rate": 0.9446
+    }
+  },
+  "detection_rate": 0.9587
+}
